@@ -1,3 +1,3 @@
-# PR Reviews
+# Automated PR Review Instructions
 
-When doing a PR review and you find a change that needs to be made. Invoke Kelos Operator with labeling the PR with "copilot-comment" label if anything needs to be addressed but if nothing is wrong add "copilot-reviewed" label instead. We are using https://github.com/kelos-dev/kelos to automate this repo further.
+1. When doing a PR review on both a Draft PR or a PR in Ready state leave a comment with just the "ready" word and nothing else if you don't find any issues. If there are issues then leave a comment with just the "comment" word and nothing else. Both comments will go in the conversations tab of the PR. 
